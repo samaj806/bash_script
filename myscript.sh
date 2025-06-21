@@ -1,8 +1,7 @@
 #!/bin/bash
 
-myname="Samuel"
-myage="28"
+word="awesome"
 
-echo "Hello, my name is $myname."
-
-echo "I'm $myage years old."
+echo "Linux is $word"
+echo "Videogames are $word"
+echo "Sunny days are $word"
