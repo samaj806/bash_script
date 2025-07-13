@@ -1,0 +1,38 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  ibverbs-providers         libgfxdr0          librdmacm1t64
+  icu-devtools              libglusterfs0      python3-lib2to3
+  libboost-iostreams1.83.0  libibverbs1        python3.11
+  libboost-thread1.83.0     libicu-dev         python3.11-dev
+  libcephfs2                libjsoncpp25       python3.11-minimal
+  libgfapi0                 libpython3.11-dev  samba-vfs-modules
+  libgfrpc0                 librados2
+Use 'sudo apt autoremove' to remove them.
+
+Installing:
+  htop
+
+Suggested packages:
+  strace
+
+Summary:
+  Upgrading: 0, Installing: 1, Removing: 0, Not Upgrading: 2158
+  Download size: 172 kB
+  Space needed: 434 kB / 2879 MB available
+
+Get:1 http://kali.download/kali kali-rolling/main amd64 htop amd64 3.4.1-4 [172 kB]
+Fetched 172 kB in 15s (11.8 kB/s)
+Selecting previously unselected package htop.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 421105 files and directories currently installed.)
+Preparing to unpack .../htop_3.4.1-4_amd64.deb ...
+Unpacking htop (3.4.1-4) ...
+Setting up htop (3.4.1-4) ...
+Processing triggers for kali-menu (2024.3.1) ...
+Processing triggers for desktop-file-utils (0.27-2) ...
+Processing triggers for hicolor-icon-theme (0.18-1) ...
+Processing triggers for man-db (2.12.1-2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
