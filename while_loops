@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+while [ -f ~/testfile ]
+do
+    echo "As of $(date) the file 'test_file' exists.."
+    sleep 5
+done
+   echo "As of $(date) the file 'test_file' no longer exist.."
